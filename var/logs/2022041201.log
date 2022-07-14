@@ -1,0 +1,11 @@
+2022-04-12 01:03:46,607 - thread1.py[line:79] - INFO: Staring spider thread...
+2022-04-12 01:03:47,470 - thread1.py[line:55] - INFO: Url http://www.baidu.com has crawed,current depth:0
+2022-04-12 01:03:47,608 - thread1.py[line:79] - INFO: Staring spider thread...
+2022-04-12 01:03:48,818 - thread1.py[line:55] - INFO: Url http://map.baidu.com has crawed,current depth:1
+2022-04-12 01:03:48,848 - url_handle.py[line:71] - INFO: Saving http://www.baidu.com/www.baidu.com/img/flexible/logo/pc/result@2.png.
+2022-04-12 01:03:48,868 - url_handle.py[line:79] - ERROR: Open url http://www.baidu.com/www.baidu.com/img/flexible/logo/pc/result@2.png error. Message: HTTP Error 404: Not Found.
+2022-04-12 01:03:48,868 - thread1.py[line:55] - INFO: Url http://www.baidu.com/www.baidu.com/img/flexible/logo/pc/result@2.png has crawed,current depth:1
+2022-04-12 01:03:55,926 - url_handle.py[line:71] - INFO: Saving http://ss.bdimg.com/static/superman/img/topnav/newxueshuicon-a5314d5c83.png.
+2022-04-12 01:03:56,075 - thread1.py[line:55] - INFO: Url http://ss.bdimg.com/static/superman/img/topnav/newxueshuicon-a5314d5c83.png has crawed,current depth:1
+2022-04-12 01:03:56,095 - thread1.py[line:30] - INFO: Url http://map.baidu.com/wolfman/static/common/images/transparent.gif has reach max depth 2
+2022-04-12 01:03:56,095 - thread1.py[line:65] - INFO: Url queue now is empty,thread quit!

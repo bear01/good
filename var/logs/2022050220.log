@@ -1,0 +1,9 @@
+2022-05-02 20:59:41,523 - thread1.py[line:78] - INFO: Staring spider thread...
+2022-05-02 20:59:41,647 - url_handle.py[line:80] - ERROR: Saving http://www.baidu.com error. Error message: [Errno 13] Permission denied: 'E:\\output'.
+2022-05-02 20:59:41,647 - thread1.py[line:54] - INFO: Url http://www.baidu.com has crawed,current depth:0
+2022-05-02 20:59:42,384 - url_handle.py[line:80] - ERROR: Saving http://www.qq.com error. Error message: [Errno 13] Permission denied: 'E:\\output'.
+2022-05-02 20:59:42,384 - thread1.py[line:54] - INFO: Url http://www.qq.com has crawed,current depth:0
+2022-05-02 20:59:42,384 - thread1.py[line:64] - INFO: Url queue now is empty,thread quit!
+2022-05-02 20:59:42,535 - thread1.py[line:78] - INFO: Staring spider thread...
+2022-05-02 20:59:42,535 - thread1.py[line:64] - INFO: Url queue now is empty,thread quit!
+2022-05-02 20:59:42,535 - thread1.py[line:83] - INFO: done
